@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 64px 158px 268px 158px;
+}
+#mainContainer{
+    padding: 96px;
+    background-color: rgba(255, 174, 175, 1) ;
+    margin: 0 auto;
+ 
+}
+#contectContainer{
+    padding: 96px 66px;
+    background-color: white;
+    max-width: 1412px;
+}
+#headerContainer{
+    max-width: 1280px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 96px;
+}
+header{
+    padding-left: 32px;
+    padding-right: 32px;
+    display: inline-block;
+}
+#ourBlogP{
+    color: #ED00A6;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+h1{
+    color: #181D27;
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+#industryP{
+    color: #535862;
+    font-size: 20px;
+}
+#imageOne{
+    max-width: 600px;
+    width: 50%;
+}
+#firstPngWrapper{
+    text-align: left;
+    margin-bottom: 96px;
+}
+#secondPngWrapper{
+    text-align: right;
+    margin-bottom: 96px;
+}
+#imageTwo{
+    max-width: 600px;
+    width: 50%;
+}
+#thirdPngWrapper{
+    text-align: left;
+    margin-bottom: 96px;
+}
+#imageThree{
+    max-width: 600px;
+    width: 50%;
+}
